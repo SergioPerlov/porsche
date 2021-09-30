@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.logo{
+	width: 20%;
+	height: 100px;
+	border: none;
+	border-radius: 20px;
+background: #BC986A;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: Helvetica;
+font-size: 28px;
+}
+.headermenu{
+	width: 30%;
+	height: 100px;
+	border: none;
+	border-radius: 20px;
+	background: #BC986A;
+
+	font-family: Helvetica;
+	font-size: 28px;
+}
+.join{
+	width: 15%;
+	height: 400px;
+	
+	background: #BC986A;
+	border-radius: 20px;
+	border: none;
+	padding-top: 15px;
+
+
+}
+nav{
+	vertical-align: baseline;
+	margin: 2.5%;
+	padding: 2.5%;
+	
+	background: #DAAD86;
+	border-radius: 20px;
+	border: none;
+}
+footer{
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	height: 60px;
+	border: none;
+	background: #DAAD86;
+	border-radius: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+header{
+	display: flex;
+	justify-content: space-between;
+	padding: 2.5%;
+}
+main{
+	display: flex;
+	justify-content: space-around;
+
+}
+ul{
+	padding-top: 21px;
+	align-items: center;
+	height: 50px;
+	display: flex;
+
+	justify-content: space-around;
+}
+li{
+	list-style: none;
+
+}
+body{
+	background: #FBEEC1;
+	margin: 2.5%;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-family: Helvetica;
+	font-size: 20px;
+
+}
+img{
+	width: 170px;
+	height: 120px;
+	padding: 10px;
+	border-radius: 20px;
+	border: none;
+	
+}
+h2{
+	
+	display: flex;
+	justify-content: center;
+}
+h4{
+	margin: 20px;
+	font-family: mv boli;
+	font-size: 20px;
+
+}
+.ууу{
+	display: flex;
+	justify-content: center;
+}
